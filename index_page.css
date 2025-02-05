@@ -92,6 +92,11 @@ button :hover{
 
 .homescr{
     display: block;
+    background-color: #c9d6ff;
+    background: linear-gradient(to right, rgb(221, 198, 232), #b3c0e8);
+    height: 100vh;
+    z-index: 0;
+    top: 0px;
 }
 
 .favic{
